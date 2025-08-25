@@ -876,8 +876,8 @@ const mockRecipes: Recipe[] = [
     "dificuldade": "Médio",
     "imagem_urls": [
       "https://painacozinha.com/wp-content/uploads/29.Vaca-Atolada.webp"
-      "https://espaconatelie.com.br/wp-content/uploads/2025/03/vaca-atolada.jpg"
-    ],
+      
+     ],
     "user_id": "tudogostoso_user",
     "views": 3600
   },
